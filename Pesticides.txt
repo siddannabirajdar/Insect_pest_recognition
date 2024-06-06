@@ -1,0 +1,102 @@
+0  Chlorantraniliprole,Monocrotophos
+1  Chlorpyrifos,Imidacloprid,Thiamethoxam
+2  Quinalphos 25 EC 1000 ml/ha,Phosphamidon 40 SL 600 ml/ha, Profenophos 50 EC 1000 ml/ha
+3  Abamectin,Tebufenozide
+4  Spinosad,Chlorantraniliprole,Fipronil
+5  Phorate,Carbofuran,Chlorpyrifos
+6  Fipronil
+7  Neonicotinoids,Carbamates
+8  Organophosphates,Carbamates
+9  Steinernema,Heterorhabditis
+10  Carbosulfan,Imidacloprid,Lambda-cyhalothrin
+11  Imidacloprid,Fipronil
+12  Neoseiulus cucumeris,Amblyseius cucumeris
+13  Isogashi,Yuri
+14  Pyrethroids,Imidacloprid
+15  Trichlorfon
+16  Cyantraniliprole
+17  Cartap hydrochloride,Trichlorofon
+18  Steinernema carpocapsae
+19  Spinosad,cypermethrin
+20  bifenthrin
+21  miticides
+22  Pyrethroids
+23  Spinosad, Pyrethroids
+24  Pesto Raze
+25  Imidacloprid
+26  chlorpyrifos
+27  thiamethoxam
+28  Cruiser, Gaucho and Poncho
+29  oataphid-Spinosad
+30  Macroglenes penetrans
+31  Abamectin
+32  Bifenazate
+33  Pyrethroids
+34  Chlorpyrifos
+35  Lambda-cyhalothrin
+36  Thiamethoxam
+37  Neonicotinoids
+38  Carbamates
+39  Bacillus thuringiensis
+40  Organophosphates
+41  Pyrethroids
+42  Neonicotinoids
+43  Imidacloprid
+44  Lambda-cyhalothrin
+45  Pyrethroids
+46  Botanical insecticides
+47  Organophosphates
+48  Malathion
+49  Organophosphates
+50  Cypermethrin 10 EC: 1 mL L-1 Chlorpyriphos 20 EC: 2 mL L-1 Acephate 75 SP: 2 g L-1
+51  Sevin 4F, Sevin 80S, Sevin XLR, or Warrior 1 CS
+52  Bifenthrin Chloronicotinyls
+53  imidacloprid, acetamiprid, emamectin, and spinosad
+54  Thrips Raze bio
+55  Phosalone
+56  Azadirachtin,Beauveria bassiana,Fermented cow urine,Imidacloprid
+57  Nitenpyram,Veratramine and pyrethrins,Chlorpyrifos, bifenthrin, avermectin, and emamectin benzoate
+58  Fenoxycarb, Methoxyfenozide, Pyriproxyfen, and Tebufenozide.
+59  spirotetramat
+60  Organophosphorus sprays, Carbamate sprays, Synthetic pyrethroid sprays, Wettable sulfur, and Dusting sulfur
+61  bifenthrin, hexythiazox, and horticultural oils.
+62  L.pseudo-annulata, P.japonica, and E.graminicolum
+63  abamectin, propargite, and dicofol
+64  Liquid ethyl formate (EF)
+65  Deltamethrin
+66  Deltamethrin: 2.8% Cypermethrin: 2.5% Dimethoate: 60%
+67  Chlorpyrifos
+68  Imidacloprid and fipronil
+69  Cicadella viridis
+70  dimethoate, indoxacarb, or fipronil
+71  Neonicotinoids, Pyrethroids, Ketoenols, and Imidacloprid.
+72  50% phoxim: Diluted 1:700–1000 20% isofenphos-methyl emulsion Diluted 1:1500–2000 80% dichlorvos emulsion
+73  β-ionone
+74  Abamectin,Fluralaner
+75  bromopropilate,fonnetanate,formetanate
+76  Oligonucleotide Insecticides
+77  aromatic oil of Litsea cubeba
+78  buprofezin
+79  deltamethrin
+80  dimetboate, parathion , malathion
+81  Pseudaphycus utilis Timberlake
+82  imidacloprid
+83  Malathion
+84  fenthion, dimethoate
+85  Malathion
+86  Gardona, endosulfan,malathion,dichlorvos,trichlorfon,endrin,methyl para- thion
+87  pyrethrins or permethrin
+88  neonicotinoid
+89  Neem seed extracts, Dominion Fruit Tree and Vegetable Spray
+90  Azadirachtin,Ozoneem
+91  Citrus auranticola
+92  imidacloprid
+93  spinosad, malathion
+94  Fungal insecticides
+95  deltamethrin or pyrethroids
+96  trichlorphon, deltamelthrin and fenvalerate
+97  carbaryl, quinalphos, monocrotophos, fenvalerate or cypermethrin
+98  cypermethrin
+99  dinotefuran
+100  lambdacyhalothrin
+101  Imidacloprid
